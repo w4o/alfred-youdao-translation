@@ -1,0 +1,5 @@
+.DS_Store
+.data/
+prefs.plist
+*.log
+__pycache__/
